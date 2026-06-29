@@ -1,5 +1,7 @@
 # Santorini Arcade Board Game 🏛️
 
+![Santorini Gameplay](sample.png)
+
 A digital recreation of the strategic and beautiful board game **Santorini**, built using Python and the `arcade` library. Experience the mythological strategy game where you build and climb to victory!
 
 ## 🎮 Features
