@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Faltu files
+faltu.py
+sample.py
+t1.py
+t2.py
+t3.py
+t4.py
+t11.py
+CASE STUDY REPORT.docx
+Case Study Report.pdf
